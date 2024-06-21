@@ -1,10 +1,10 @@
 # Global_Alcohol_Study
 
-# Project Overview
+## Project Overview
 
 Alcohol consumption plays a significant role in societal behaviors and health outcomes, influencing individual behaviors, but excessive consumption can lead to severe health issues, including liver disease, addiction, and increased risk of accidents. Since alcohol consumption is not limited to one nation or particular society, this project aims to study it on a global level.
 
-# Data Collection and Preprocessing
+## Data Collection and Preprocessing
 
 The data for this project is taken from Our World in Data, which provides research and data on the world's largest problems.
 
