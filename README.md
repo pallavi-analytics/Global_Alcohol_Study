@@ -1,13 +1,14 @@
 # Global_Alcohol_Study
 
-Hey there! 👋 Welcome to my ongoing Global Alcohol Study repository. I've just kicked off this study, and I'm diving into the fascinating world of global alcohol consumption trends.
+# Project Overview
 
-### What's Cooking?
+Alcohol consumption plays a significant role in societal behaviors and health outcomes, influencing individual behaviors, but excessive consumption can lead to severe health issues, including liver disease, addiction, and increased risk of accidents. Since alcohol consumption is not limited to one nation or particular society, this project aims to study it on a global level.
 
-🔍 Right now, I'm gathering datasets to understand how alcohol consumption varies across different countries and regions. 
+# Data Collection and Preprocessing
 
-### What's Next?
+The data for this project is taken from Our World in Data, which provides research and data on the world's largest problems.
 
-📊 Once I've crunched the numbers and analyzed the data, I'll be sharing my insights and findings right here. Expect some eye-opening facts and figures about our global drinking habits.
+The dataset I have used here is not entirely ready-made; I had to merge several datasets to meet my requirements. For instance, I aimed to visualize and analyze the role of gender and income in alcohol consumption and the resulting death rates.
 
-### Stay tuned and thanks for dropping by!
+Curating the final dataset was the most challenging part. To match years and countries across all datasets, I applied various preprocessing steps. Finally, our dataset is ready for analysis.
+
